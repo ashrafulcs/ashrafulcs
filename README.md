@@ -10,7 +10,7 @@ I'm a passionate programmer with a strong interest in **Artificial Intelligence,
 ⚡ **Expertise:** AI, Machine Learning, Image Processing, Networking, Database Management  
 
 ## 🌟 Notable Projects  
-- 🖥 **Packet Tracer Project** – Network simulation and analysis.  
+- 🖥 **IUB-Network-Design** – Network simulation and analysis.  
 - 🏥 **Smart Healthcare Appointment Booking System** – A system to streamline patient appointments.  
 - 🎯 **Quickdonate Database Management System** – Efficiently managing donation transactions and records.  
 
